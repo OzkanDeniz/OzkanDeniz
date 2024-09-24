@@ -21,6 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozkandeniz&label=Profile%20views&color=0e75b6&style=flat" alt="ozkandeniz" /> </p>
 <h3 align="left">Languages and Tools:</h3>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-gray?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
