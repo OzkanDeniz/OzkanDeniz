@@ -18,7 +18,7 @@
 <br>
 
 
-<p align="left"> <img src=""https://komarev.com/ghpvc/?username=OzkanDeniz&label=Profile%20views&color=0e75b6&style=for-the-badge"" alt="ozkandeniz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OzkanDeniz&label=Profile%20views&color=0e75b6&style=flat"  alt="ozkandeniz" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-gray?style=for-the-badge&logo=javascript)
