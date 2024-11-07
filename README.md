@@ -54,34 +54,34 @@
   </tr>
   <tr>
     <td>
-      <a href="https://kovacdev-react-movie-app.netlify.app/" target="_blank">Movie App</a><br/>
-      <a href="https://github.com/EnchantressRuby/react-movie-app" target="_blank">Repository</a>
+      <a href="" target="_blank">Movie App</a><br/>
+      <a href="" target="_blank">Repository</a>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/24e659bc-7048-49d9-8d6d-2639e3382884"/></td>
+    <td><img src=""/></td>
     <td>React, Tailwind CSS, Firebase, react-toastify, react-router-dom, axios</td>
   </tr>
   <tr>
     <td>
-      <a href="https://kovacdev-react-store.netlify.app" target="_blank">Store App</a><br/>
-      <a href="https://github.com/EnchantressRuby/react-store-app" target="_blank">Repository</a>
+      <a href=""_blank">Store App</a><br/>
+      <a href="" target="_blank">Repository</a>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/c75095d3-9698-4f68-af64-f9b0641a447c"/></td>
+    <td><img src=""/></td>
     <td>React, Tailwind CSS, react-router-dom, axios</td>
   </tr>
   <tr>
     <td>
-      <a href="https://kovacdev-react-football-legends.netlify.app" target="_blank">Football Legends</a><br/>
-      <a href="https://github.com/EnchantressRuby/react-football-legends" target="_blank">Repository</a>
+      <a href="" target="_blank">Football Legends</a><br/>
+      <a href="" target="_blank">Repository</a>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/941e486a-54d4-4607-9b05-6266d1c5928f"/></td>
+    <td><img src=""/></td>
     <td>React, react-bootstrap, bootstrap</td>
   </tr>
   <tr>
     <td>
-      <a href="https://kovacdev-react-hospital-appointment.netlify.app" target="_blank">Hospital Appointment</a><br/>
-      <a href="https://github.com/EnchantressRuby/react-hospital-appointment" target="_blank">Repository</a>
+      <a href="">Hospital Appointment</a><br/>
+      <a href="" target="_blank">Repository</a>
     </td>
-    <td><img src="https://github.com/user-attachments/assets/7e7bf41a-ff5f-4501-845a-673c0dae5dee"/></td>
+    <td><img src=""/></td>
     <td>React, react-bootstrap, bootstrap, react-icons</td>
   </tr>
 </table>
