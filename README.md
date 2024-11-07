@@ -18,7 +18,7 @@
 <br>
 
 
-<p align="left"> <img src="" alt="ozkandeniz" /> </p>
+<p align="left"> <img src="https://github.com/OzkanDeniz" alt="ozkandeniz" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-gray?style=for-the-badge&logo=javascript)
