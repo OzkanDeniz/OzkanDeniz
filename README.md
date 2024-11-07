@@ -18,7 +18,7 @@
 <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozkandeniz&label=Profile%20views&color=0e75b6&style=flat" alt="ozkandeniz" /> </p>
+<p align="left"> <img src="" alt="ozkandeniz" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-gray?style=for-the-badge&logo=javascript)
@@ -46,45 +46,6 @@
 
 
 
-<table align="center">
-  <tr>
-    <th>Live Project & Repository</th>
-    <th>How does my project look</th>
-    <th>Libraries and Technologies I use</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="" target="_blank">Movie App</a><br/>
-      <a href="" target="_blank">Repository</a>
-    </td>
-    <td><img src=""/></td>
-    <td>React, Tailwind CSS, Firebase, react-toastify, react-router-dom, axios</td>
-  </tr>
-  <tr>
-    <td>
-      <a href=""_blank">Store App</a><br/>
-      <a href="" target="_blank">Repository</a>
-    </td>
-    <td><img src=""/></td>
-    <td>React, Tailwind CSS, react-router-dom, axios</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="" target="_blank">Football Legends</a><br/>
-      <a href="" target="_blank">Repository</a>
-    </td>
-    <td><img src=""/></td>
-    <td>React, react-bootstrap, bootstrap</td>
-  </tr>
-  <tr>
-    <td>
-      <a href="">Hospital Appointment</a><br/>
-      <a href="" target="_blank">Repository</a>
-    </td>
-    <td><img src=""/></td>
-    <td>React, react-bootstrap, bootstrap, react-icons</td>
-  </tr>
-</table>
 
 
 
