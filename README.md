@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özkan DENİZ</h1>
-<h3 align="center">🌟.</h3>
+<h3 align="center">STUDENT CLARUSWAY🌟.</h3>
 
 <br>
 
