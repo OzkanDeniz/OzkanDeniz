@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>
-      <a href="hospital-appointment-4qz5sgy53-ozkans-projects-b7945145.vercel.app" target="_blank">Hospital Appointment</a><br/>
+      <a href="https://vercel.com/ozkans-projects-b7945145/hospital-appointment" target="_blank">Hospital Appointment</a><br/>
       <a href="https://github.com/OzkanDeniz/hospital-appointment" target="_blank">Repository</a>
     </td>
     <td><img src="https://github.com/user-attachments/assets/7e7bf41a-ff5f-4501-845a-673c0dae5dee"/></td>
