@@ -46,8 +46,26 @@
  
 
 <br>
-## My projects
-
+<h2 align="center">💻My Projects💻</h2>
+<br/>
+<table align="center">
+ <tr>
+    <td>
+      <a href="https://kovacdev-react-football-legends.netlify.app" target="_blank">Football Legends</a><br/>
+      <a href="https://github.com/EnchantressRuby/react-football-legends" target="_blank">Repository</a>
+    </td>
+    <td><img src="https://github.com/user-attachments/assets/941e486a-54d4-4607-9b05-6266d1c5928f"/></td>
+    <td>React, react-bootstrap, bootstrap</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kovacdev-react-hospital-appointment.netlify.app" target="_blank">Hospital Appointment</a><br/>
+      <a href="https://github.com/EnchantressRuby/react-hospital-appointment" target="_blank">Repository</a>
+    </td>
+    <td><img src="https://github.com/user-attachments/assets/7e7bf41a-ff5f-4501-845a-673c0dae5dee"/></td>
+    <td>React, react-bootstrap, bootstrap, react-icons</td>
+  </tr>
+</table>
 
   
 
