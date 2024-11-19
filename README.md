@@ -8,10 +8,10 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 <font color="pink"> I was Mechanical Engineer, but I want to be a developer. </font>
+🌱 <font color="pink"> I graduated from DOKUZ EYLÜL UNİVERSİTY, Department of Mechanical Engineering and now I continue my career as a full stack developer.</font>
 </br>
-- ⚡ <font color="pink"> My developer career started in 2024, and it goes on🚀 </font>
-</br>
+⚡ <font color="pink"> My developer career started in 2024, and it goes on🚀 </font>
+
 
 
 
