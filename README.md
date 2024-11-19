@@ -20,8 +20,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OzkanDeniz&label=Profile%20views&color=0e75b6&style=flat"  alt="ozkandeniz" /> </p>
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakengincaglar/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:becaglar3434@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/özkan-deniz-a6845b196/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:ozkandnz09@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 
