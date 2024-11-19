@@ -8,11 +8,13 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 <font color="pink"> I was Mechanical Engineer, but I want to be a developer. </font>
+</br>
+- ⚡ <font color="pink"> My developer career started in 2024, and it goes on🚀 </font>
+</br>
+<font color="pink"> Nowadays I am Student at Clarusway </font>
+<br> 
 
-- 📫 How to reach me **ozkandnz09@gmail.com**
-
-- ⚡ Fun fact :- Sports and Music🎵 are the reasons to live.
 
 <br>
 <br>
