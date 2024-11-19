@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Özkan DENİZ</h1>
-<h3 align="center">STUDENT CLARUSWAY🌟.</h3>
+<h3 align="center">Full Stack Developer🌟.</h3>
 
 <br>
-
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6zkan-deniz-a6845b196/)
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
