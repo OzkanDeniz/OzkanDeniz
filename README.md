@@ -19,7 +19,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OzkanDeniz&label=Profile%20views&color=0e75b6&style=flat"  alt="ozkandeniz" /> </p>
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/özkan-deniz-a6845b196/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakengincaglar/)
 <h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-gray?style=for-the-badge&logo=javascript)
