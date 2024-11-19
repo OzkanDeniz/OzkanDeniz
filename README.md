@@ -12,8 +12,7 @@
 </br>
 - ⚡ <font color="pink"> My developer career started in 2024, and it goes on🚀 </font>
 </br>
-<font color="pink"> Nowadays I am Student at Clarusway </font>
-<br> 
+
 
 
 <br>
