@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Özkan DENİZ</h1>
+<h1 align="center">Hi 👋, I'm Stilian MIHAYLOV</h1>
 <h3 align="center">Full Stack Developer🌟.</h3>
 
 <br>
