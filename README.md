@@ -51,22 +51,6 @@
 <table align="center">
  <tr>
     <td>
-      <a href="https://redux-toolkit-project-weld.vercel.app/login" target="_blank">News</a><br/>
-      <a href="https://github.com/OzkanDeniz/redux_toolkit_project" target="_blank">Repository</a>
-    </td>
-    <td><img src="https://github.com/user-attachments/assets/fb6a5f98-dc2a-4480-8c7b-21e502220cdd"/></td>
-    <td>React, react, tailwind CSS</td>
-  </tr>
- <tr>
-    <td>
-      <a href="https://clarus-store-ten.vercel.app/" target="_blank">Clarus Store</a><br/>
-      <a href="https://github.com/OzkanDeniz/clarus_store" target="_blank">Repository</a>
-    </td>
-    <td><img src="https://github.com/user-attachments/assets/70dc8172-fdac-4288-a44c-4b7527a077b5"/></td>
-    <td>React, react, tailwind CSS</td>
-  </tr>
- <tr>
-    <td>
       <a href="https://football-legends-sigma.vercel.app/" target="_blank">Football Legends</a><br/>
       <a href="https://github.com/OzkanDeniz/Football-Legends" target="_blank">Repository</a>
     </td>
