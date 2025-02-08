@@ -54,7 +54,8 @@
       <a href="https://clarus-store-ten.vercel.app/" target="_blank">Clarus Store</a><br/>
       <a href="https://github.com/OzkanDeniz/clarus_store" target="_blank">Repository</a>
     </td>
-    <td><img src=""/></td>
+    <td><img src="![Ekran görüntüsü 2025-02-08 223307](https://github.com/user-attachments/assets/70dc8172-fdac-4288-a44c-4b7527a077b5)
+"/></td>
     <td>React, react, tailwind CSS</td>
   </tr>
  <tr>
