@@ -55,7 +55,7 @@
       <a href="https://github.com/OzkanDeniz/clarus_store" target="_blank">Repository</a>
     </td>
     <td><img src="https://github.com/user-attachments/assets/941e486a-54d4-4607-9b05-6266d1c5928f"/></td>
-    <td>React, react-bootstrap, bootstrap</td>
+    <td>React, react, tailwind CSS</td>
   </tr>
  <tr>
     <td>
