@@ -54,7 +54,7 @@
       <a href="https://clarus-store-ten.vercel.app/" target="_blank">Clarus Store</a><br/>
       <a href="https://github.com/OzkanDeniz/clarus_store" target="_blank">Repository</a>
     </td>
-    <td><img src="[https://icecreamapps.com/v/ebk359a](https://screen-recorder-files-eu.s3.eu-central-1.amazonaws.com/0ec540973a953634bb/Video_2025_02_08-2.webm)"/></td>
+    <td><img src="https://screen-recorder-files-eu.s3.eu-central-1.amazonaws.com/0ec540973a953634bb/Video_2025_02_08-2.webm"/></td>
     <td>React, react-bootstrap, bootstrap</td>
   </tr>
  <tr>
