@@ -51,8 +51,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://football-legends-sigma.vercel.app/" target="_blank">Football Legends</a><br/>
-      <a href="https://github.com/OzkanDeniz/Football-Legends" target="_blank">Repository</a>
+      <a href="https://clarus-store-ten.vercel.app/" target="_blank">Clarus Store</a><br/>
+      <a href="https://github.com/OzkanDeniz/clarus_store" target="_blank">Repository</a>
     </td>
     <td><img src="https://github.com/user-attachments/assets/941e486a-54d4-4607-9b05-6266d1c5928f"/></td>
     <td>React, react-bootstrap, bootstrap</td>
