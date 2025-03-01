@@ -49,14 +49,6 @@
 <h2 align="center">💻My Projects💻</h2>
 <br/>
 <table align="center">
-  <tr>
-    <td>
-      <a href="https://clarus-store-ten.vercel.app/" target="_blank">Clarus Store</a><br/>
-      <a href="https://github.com/OzkanDeniz/clarus_store" target="_blank">Repository</a>
-    </td>
-    <td><img src="https://screen-recorder-files-eu.s3.eu-central-1.amazonaws.com/0ec540973a953634bb/Video_2025_02_08-2.webm"/></td>
-    <td>React, react-bootstrap, bootstrap</td>
-  </tr>
  <tr>
     <td>
       <a href="https://football-legends-sigma.vercel.app/" target="_blank">Football Legends</a><br/>
